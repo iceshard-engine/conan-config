@@ -13,5 +13,5 @@ cppstd=17
 [options]
 
 [env]
-CC=clang-9.0
-CXX=clang++-9.0
+CC=clang-9
+CXX=clang++-9
