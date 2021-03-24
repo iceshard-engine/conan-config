@@ -1,0 +1,3 @@
+conan-center https://conan.bintray.com True
+conan-iceshard https://conan.iceshard.net True
+conan-bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
