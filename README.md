@@ -6,7 +6,7 @@ Conan configuration profiles and settings to be used with various other projects
 Provides remotes for the following three repostories:
 * Conan Center (https://conan.bintray.com)
 * IceShard (https://conan.iceshard.net)
-* ~~Bincrafters (https : //api.bintray.com/conan/bincrafters/public-conan)~~ - this repository does not exist anymore.
+* Bincrafters (https : https://bincrafters.jfrog.io/artifactory/api/conan/public-conan)
 
 # Profiles
 
