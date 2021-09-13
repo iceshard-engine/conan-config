@@ -14,5 +14,6 @@ Currently only two profiles are provided:
 * Linux x64 (clang 9.0)
 * Linux x64 (clang 10.0)
 * Linux x64 (clang 11.0)
+* Linux x64 (clang 12.0)
 
 A profile for MSVC is nor provided currently but will be added in the near future.
