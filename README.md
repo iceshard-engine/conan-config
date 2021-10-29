@@ -4,7 +4,7 @@ Conan configuration profiles and settings to be used with various other projects
 # Remotes
 
 Provides remotes for the following three repostories:
-* Conan Center (https://conan.bintray.com)
+* Conan Center (https://center.conan.io)
 * IceShard (https://conan.iceshard.net)
 * Bincrafters (https://bincrafters.jfrog.io/artifactory/api/conan/public-conan)
 
