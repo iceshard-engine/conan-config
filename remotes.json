@@ -1,0 +1,19 @@
+{
+ "remotes": [
+  {
+   "name": "conancenter",
+   "url": "https://center.conan.io",
+   "verify_ssl": true
+  },
+  {
+   "name": "conan-iceshard",
+   "url": "https://conan.iceshard.net/",
+   "verify_ssl": true
+  },
+  {
+    "name": "conan-bincrafters",
+    "url": "https://bincrafters.jfrog.io/artifactory/api/conan/public-conan",
+    "verify_ssl": true
+  }
+ ]
+}
