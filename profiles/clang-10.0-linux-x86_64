@@ -1,5 +1,3 @@
-[build_requires]
-
 [settings]
 os=Linux
 arch=x86_64
