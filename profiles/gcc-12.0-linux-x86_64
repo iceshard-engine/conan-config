@@ -8,6 +8,6 @@ cppstd=20
 
 [options]
 
-[env]
+[buildenv]
 CC=gcc-12
 CXX=g++-12

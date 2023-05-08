@@ -8,6 +8,6 @@ cppstd=20
 
 [options]
 
-[env]
+[buildenv]
 CC=clang-11
 CXX=clang++-11
