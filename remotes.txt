@@ -1,3 +1,0 @@
-conan-center https://center.conan.io True
-conan-iceshard https://conan.iceshard.net True
-conan-bincrafters https://bincrafters.jfrog.io/artifactory/api/conan/public-conan
