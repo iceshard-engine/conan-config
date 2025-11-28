@@ -7,7 +7,7 @@
   },
   {
    "name": "conan2-iceshard",
-   "url": "https://conan.iceshard.net/",
+   "url": "https://conan.iceshard.net/repo",
    "verify_ssl": true
   }
  ]
