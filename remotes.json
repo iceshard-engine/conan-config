@@ -7,7 +7,7 @@
   },
   {
    "name": "conan2-iceshard",
-   "url": "https://conan.iceshard.net/repo",
+   "url": "https://conan.iceshard.net/artifactory/api/conan/conan-local",
    "verify_ssl": true
   }
  ]
