@@ -6,8 +6,8 @@
    "verify_ssl": true
   },
   {
-   "name": "conan2-iceshard",
-   "url": "https://conan.iceshard.net/artifactory/api/conan/conan-local",
+   "name": "conan2-iceshard-public",
+   "url": "https://code.iceshard.net/api/packages/libraries/conan",
    "verify_ssl": true
   }
  ]
