@@ -5,7 +5,7 @@ Conan configuration profiles and settings to be used with various other projects
 
 Provides remotes for the following three repostories:
 * Conan2 Center (https://center.conan.io) - Conan2 Center Repository
-* Conan2 IceShard (https://code.iceshard.net) - IceShard Public Repository (provides recipes only)
+* Conan2 IceShard ([https://code.iceshard.net](https://code.iceshard.net/libraries/-/packages)) - IceShard Public Repository (provides recipes only)
 
 # Profiles
 
