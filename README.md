@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> With Conan getting more and more feature rich this repository is no longer needed.
+>
+> - **remotes** - Addign a single public remote via command-line is faster than running `conan config get` command.
+> - **profiles** - The profiles defined here are not usefull unless you have the exact tools installed.
+> - **hooks** - Conan now allows packages to generate files wich just requiring the generator in `[tool_requires]` section.
+
 # IceShard conan configurations
 Conan configuration profiles and settings to be used with various other projects and conan packages.
 
